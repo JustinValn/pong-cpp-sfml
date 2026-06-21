@@ -21,6 +21,10 @@ A 2D Pong game built in C++ using SFML with object-oriented design and delta-tim
    git clone https://github.com/JustinValn/pong-cpp-sfml.git
    ```
 3. Build and run the project.
+   ```bash
+   cmake ..
+   ded
+   ```
 
 ## What I Learned
 - Designing games using OOP
