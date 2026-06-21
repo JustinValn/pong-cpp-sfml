@@ -3,7 +3,7 @@
 A 2D Pong game built in C++ using SFML with object-oriented design and delta-time movement.
 
 ## Features
-- Object-Oriented Design (Ball, Paddle, Game classes)
+- Object-Oriented Design (OOP) (Ball, Paddle, Game classes)
 - Frame-independent movement using delta time
 - Collision detection
 - Score tracking
@@ -15,7 +15,7 @@ A 2D Pong game built in C++ using SFML with object-oriented design and delta-tim
 - CMake
 
 ## Installation
-1. Install SFML.
+1. Install SFML C++ Library.
 2. Clone the repository:
    ```bash
    git clone https://github.com/JustinValn/pong-cpp-sfml.git
