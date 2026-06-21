@@ -23,7 +23,8 @@ A 2D Pong game built in C++ using SFML with object-oriented design and delta-tim
 3. Build and run the project.
    ```bash
    cmake ..
-   ded
+   make
+   ./pong
    ```
 
 ## What I Learned
