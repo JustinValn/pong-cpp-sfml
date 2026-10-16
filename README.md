@@ -14,6 +14,8 @@ A 2D Pong game built in C++ using SFML with object-oriented design and delta-tim
 - SFML
 - CMake
 
+** Requires SFML C++ Library **
+
 ## Installation
 1. Install SFML C++ Library.
 2. Clone the repository:
